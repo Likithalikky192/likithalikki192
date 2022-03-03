@@ -1,0 +1,9 @@
+Numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+DoubleLi =[n* n for n in numbers]
+Print(doubleli) 
+TripLeli =[n*n+1 for n in numbers]
+Print(tripleli) 
+SquareLi =[n*(n+2) for n in numbers]
+Print(squareli) 
+S_li =[n*(n+4) for n in numbers]
+Print(s_li) 
